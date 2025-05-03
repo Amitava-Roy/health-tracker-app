@@ -10,13 +10,13 @@ A simple and effective habit tracker to help you build and maintain good habits.
 
 ## Live Demo
 
-[View the Habit Tracker Live](https://your-live-link-here.com)
+[View the Habit Tracker Live](https://health-tracker-app-eight.vercel.app/)
 
 ## Getting Started
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/habit-tracker.git
+   git clone https://github.com/Amitava-Roy/health-tracker-app.git
    ```
 2. Install dependencies:
    ```bash
